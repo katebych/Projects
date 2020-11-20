@@ -61,4 +61,4 @@
 Для решения задачи используем метрику качества sMAPE.
 
 ## Используемые библиотеки
-pandas, matplotlib, seaborn, sklearn.
+pandas, numpy, matplotlib, seaborn, sklearn.
