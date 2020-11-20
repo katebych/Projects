@@ -17,10 +17,10 @@
 ### Технологический процесс:
 - Rougher feed — исходное сырье
 - Rougher additions (или reagent additions) — флотационные реагенты: Xanthate, Sulphate, Depressant
-- Xanthate — ксантогенат (промотер, или активатор флотации);
-- Sulphate — сульфат (на данном производстве сульфид натрия);
-- Depressant — депрессант (силикат натрия).
-- Rougher process (англ. «грубый процесс») — флотация
+  - Xanthate — ксантогенат (промотер, или активатор флотации)
+  - Sulphate — сульфат (на данном производстве сульфид натрия)
+  - Depressant — депрессант (силикат натрия)
+- Rougher process — флотация
 - Rougher tails — отвальные хвосты
 - Float banks — флотационная установка
 - Cleaner process — очистка
