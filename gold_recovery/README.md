@@ -9,9 +9,9 @@
 В нашем распоряжении данные с параметрами добычи и очистки.
 
 Данные находятся в трёх файлах:
-gold_recovery_train.csv — обучающая выборка
-gold_recovery_test.csv — тестовая выборка
-gold_recovery_full.csv — исходные данные
+- gold_recovery_train.csv — обучающая выборка
+- gold_recovery_test.csv — тестовая выборка
+- gold_recovery_full.csv — исходные данные
 
 ## Признаки:
 ### Технологический процесс:
