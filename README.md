@@ -5,5 +5,5 @@
 |Название проекта|Описание проекта|Используемые библиотеки|Ссылка|
 |:--------------:|:----------:|:---------------:|:---------------------:|
 |Анализ оттока клиентов из банка|Построение модели, прогнозирующей уход клиента из банка.|pandas, seaborn, sklearn| [перейти к проекту](https://github.com/katebych/Projects/tree/main/bank_churn)
-|Подготовка прототипа модели оптимизации производства металлообрабатывающего предприятия |Разработка модели, предсказывающей коэффициент восстановления золота из золотосодержащей руды.|pandas, numpy, matplotlib, seaborn, sklearn|https://github.com/katebych/Projects/tree/main/gold_recovery
-|Предсказание цены автомобиля|Создание модели для определения рыночной стоимости автомобиля.|pandas, numpy, catboost, lightgbm, sklearn| https://github.com/katebych/Projects/tree/main/car_price | 
+|Подготовка прототипа модели оптимизации производства металлообрабатывающего предприятия |Разработка модели, предсказывающей коэффициент восстановления золота из золотосодержащей руды.|pandas, numpy, matplotlib, seaborn, sklearn|[перейти к проекту](https://github.com/katebych/Projects/tree/main/gold_recovery)
+|Предсказание цены автомобиля|Создание модели для определения рыночной стоимости автомобиля.|pandas, numpy, catboost, lightgbm, sklearn| [перейти к проекту](https://github.com/katebych/Projects/tree/main/car_price) | 
